@@ -1,0 +1,1 @@
+import React from 'react'; import CustomerCalculator from '@/components/CustomerCalculator'; export default function Index(){ return <div className='p-4'><CustomerCalculator/></div> }

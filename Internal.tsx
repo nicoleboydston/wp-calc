@@ -1,0 +1,1 @@
+import React from 'react'; import InternalCalculator from '@/components/InternalCalculator'; export default function Internal(){ return <div className='p-4'><InternalCalculator/></div> }
